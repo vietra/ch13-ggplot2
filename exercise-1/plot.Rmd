@@ -1,0 +1,18 @@
+---
+title: "Plots"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+source("exercise.R")
+library(ggplot2)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE}
+plot1
+plot2
+plot3
+plot4
+plot5
+```
